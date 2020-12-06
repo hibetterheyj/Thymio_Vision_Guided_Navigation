@@ -10,6 +10,10 @@
 >
 > (Names in alphabetical order)
 
+### Docs
+
+👉 [[view in nbviewer](https://nbviewer.jupyter.org/github/hibetterheyj/Thymio_Vision_Guided_Navigation/blob/master/BMR_Final_Project.ipynb)] [[view in html](https://hibetterheyj.github.io/Thymio_Vision_Guided_Navigation/index.html)]
+
 ### Overview
 
 This project aims to combine vision, path planning, local navigation, and filtering to maneuver a Thymio robot on a map towards a goal. We have realized two types of implementations, i.e., vision-guided and vision-free version.
